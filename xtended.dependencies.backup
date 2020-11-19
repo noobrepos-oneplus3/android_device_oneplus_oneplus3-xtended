@@ -1,0 +1,21 @@
+[
+ { 
+   "remote": "github", 
+   "repository":"noobrepos-oneplus3/android_device_oneplus_OneplusShit-xtended", 
+   "target_path":"device/oneplus/OneplusShit", 
+   "branch": "xq3t"
+  },
+ { 
+   "remote": "github", 
+   "repository":"noobrepos-oneplus3/android_kernel_oneplus_msm8996-xtended", 
+   "target_path":"kernel/oneplus/msm8996", 
+   "branch": "xr"
+  },
+ { 
+   "remote": "github", 
+   "repository":"noobrepos-oneplus3/proprietary_vendor_oneplus-xtended", 
+   "target_path":"vendor/oneplus", 
+   "branch": "xr"
+  }
+]
+

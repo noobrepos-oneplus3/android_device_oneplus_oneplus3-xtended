@@ -35,9 +35,4 @@ PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 TARGET_VENDOR := oneplus
 
 BUILD_FINGERPRINT := "OnePlus/OnePlus3/OnePlus3:9/PKQ1.181203.001/1907311932:user/release-keys"
-XTENDED_BUILD_TYPE := OFFICIAL
-
-# Maintainer
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.xtended.maintainer=SuperDroidBond
-
+XTENDED_BUILD_TYPE := UNOFFICIAL
